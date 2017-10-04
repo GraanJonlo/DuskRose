@@ -4,9 +4,17 @@ obj/
 .vs/
 .vscode/
 *.user
+
+# Ncrunch stuff
 *.ncrunch*
+
+# Nuget Packages
+packages/
 
 # Paket Dependency Manager
 .paket/paket.exe
 paket-files
+
+# FAKE - F# Make
+.fake/
 
