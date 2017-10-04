@@ -18,3 +18,5 @@ paket-files
 # FAKE - F# Make
 .fake/
 
+dist/
+
