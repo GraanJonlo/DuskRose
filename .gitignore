@@ -5,3 +5,8 @@ obj/
 .vscode/
 *.user
 *.ncrunch*
+
+# Paket Dependency Manager
+.paket/paket.exe
+paket-files
+
